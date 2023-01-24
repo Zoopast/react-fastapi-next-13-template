@@ -20,3 +20,9 @@ A simple template to create projects with React and Next 13 as Frontend and Fast
 * `cd ../frontend`
 * `npm run dev`
 * go to `http://localhost:3000`
+
+## More branches
+
+Aditionally yo can use one of the following branches:
+
+* `tailwind`: added tailwind for styling, just clone the repo and switch to this branch or clone the branch and follow the same steps.
