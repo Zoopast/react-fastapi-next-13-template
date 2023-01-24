@@ -1,3 +1,10 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": ["next/core-web-vitals"],
+  "rules": {
+    "react/jsx-first-prop-new-line": [1, "always"],
+    "react/jsx-max-props-per-line": [1, {"maximum": 1}],
+    "react/jsx-indent-props": [1, 2],
+    "react/jsx-closing-bracket-location": [1, "tag-aligned"],
+    "react/jsx-closing-tag-location": 1
+  }
 }
